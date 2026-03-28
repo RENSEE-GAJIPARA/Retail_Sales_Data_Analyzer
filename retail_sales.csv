@@ -1,0 +1,501 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2024-05-20,Dal,Groceries,93.81,1.0,93.81
+2024-02-22,Headphones,Electronics,1567.61,3.0,4702.83
+2024-10-29,Spices Pack,Groceries,153.48,3.0,460.44
+2024-02-17,T-Shirt,Clothing,503.92,1.0,503.92
+2024-11-04,Headphones,Electronics,1448.4,9.0,13035.6
+2024-11-28,Webcam,Electronics,2414.0,4.0,9656.0
+2024-04-22,Spices Pack,Groceries,143.37,14.0,2007.18
+2024-01-04,Ethnic Wear,Clothing,2280.56,5.0,11402.8
+2024-05-22,LED TV,Electronics,35353.9,6.0,212123.4
+2024-02-22,Headphones,Electronics,1531.21,6.0,9187.26
+2024-07-02,LED TV,Electronics,33322.05,2.0,66644.1
+2024-01-23,Ethnic Wear,Clothing,2303.38,5.0,11516.9
+2024-03-04,Salt,Groceries,20.66,18.0,371.88
+2024-05-30,Jeans,Clothing,,9.0,10489.32
+2024-07-04,Ghee,Groceries,532.5,29.0,15442.5
+2024-02-05,Sugar,Groceries,43.58,23.0,1002.34
+2024-02-10,Headphones,Electronics,1470.64,5.0,7353.2
+2024-05-22,Smartphone,Electronics,25061.89,7.0,
+2024-07-08,Leggings,Clothing,296.97,3.0,890.91
+2024-12-25,Kurta,Clothing,782.32,5.0,3911.6
+2024-11-21,Dal,Groceries,96.06,20.0,1921.2
+2024-03-24,Webcam,Electronics,2409.87,4.0,9639.48
+2024-11-23,Formal Shirt,Clothing,978.24,5.0,4891.2
+2024-12-16,Spices Pack,Groceries,148.0,8.0,1184.0
+2024-01-17,T-Shirt,Clothing,496.81,,1987.24
+2024-02-03,Formal Shirt,Clothing,1027.49,5.0,5137.45
+2024-04-18,Power Bank,Electronics,1163.96,6.0,6983.76
+2024-11-25,Salt,Groceries,20.03,13.0,260.39
+2024-03-12,Saree,Clothing,3027.72,5.0,15138.6
+2024-05-14,Webcam,Electronics,2386.61,9.0,21479.49
+2024-10-25,Ghee,Groceries,555.91,14.0,7782.74
+2024-03-11,Leggings,Clothing,289.15,4.0,1156.6
+2024-01-25,Salt,Groceries,,3.0,57.39
+2024-12-14,Tablet,Electronics,18807.99,3.0,56423.97
+2024-07-16,Ethnic Wear,Clothing,2302.44,2.0,4604.88
+2024-09-27,Ethnic Wear,Clothing,2267.85,8.0,18142.8
+2024-12-14,Hoodie,Clothing,1470.69,1.0,1470.69
+2024-10-01,Dal,Groceries,91.18,22.0,2005.96
+2024-05-30,Leggings,Clothing,304.51,2.0,609.02
+2024-01-02,Saree,Clothing,2982.05,8.0,23856.4
+2024-04-01,Wheat Flour,Groceries,52.92,17.0,899.64
+2024-11-16,Dal,Groceries,94.95,28.0,2658.6
+2024-04-11,Hoodie,Clothing,1430.16,10.0,14301.6
+2024-10-03,Smartwatch,Electronics,8327.46,3.0,24982.38
+2024-06-14,Rice Bag,Groceries,117.11,20.0,2342.2
+2024-07-04,T-Shirt,Clothing,507.11,2.0,1014.22
+2024-05-03,Kurta,Clothing,783.96,1.0,783.96
+2024-09-05,Dal,Groceries,95.19,3.0,285.57
+2024-03-06,Webcam,Electronics,2511.68,3.0,7535.04
+2024-03-25,Salt,Groceries,19.37,18.0,348.66
+2024-08-04,Hoodie,Clothing,1570.44,10.0,15704.4
+2024-06-08,Webcam,Electronics,2568.78,4.0,10275.12
+2024-09-21,Leggings,Clothing,312.14,8.0,2497.12
+2024-04-25,Jeans,Clothing,1247.38,,4989.52
+2024-10-28,Smartwatch,Electronics,8078.32,1.0,8078.32
+2024-04-22,Sugar,Groceries,46.9,19.0,891.1
+2024-04-27,Smartphone,Electronics,23971.23,1.0,23971.23
+2024-02-06,Laptop,Electronics,53327.91,6.0,319967.46
+2024-12-08,Sugar,Groceries,42.95,9.0,386.55
+2024-03-08,Kurta,Clothing,785.04,9.0,7065.36
+2024-08-30,Ghee,Groceries,543.88,,10333.72
+2024-04-07,Bluetooth Speaker,Electronics,2931.4,7.0,20519.8
+2024-06-30,Smartphone,Electronics,25821.84,7.0,180752.88
+2024-01-28,Formal Shirt,Clothing,984.69,8.0,7877.52
+2024-07-25,Dal,Groceries,92.92,2.0,185.84
+2024-02-25,Tea Powder,Groceries,220.94,26.0,5744.44
+2024-10-01,Headphones,Electronics,1446.14,4.0,5784.56
+2024-04-03,Saree,Clothing,3090.66,,21634.62
+2024-02-08,Shorts,Clothing,430.85,4.0,1723.4
+2024-01-26,Hoodie,Clothing,1573.03,2.0,3146.06
+2024-01-08,Spices Pack,Groceries,154.08,27.0,4160.16
+2024-07-27,Headphones,Electronics,1454.81,3.0,4364.43
+2024-07-24,Shorts,Clothing,427.75,4.0,1711.0
+2024-01-02,Tablet,Electronics,18567.83,7.0,129974.81
+2024-05-26,Jacket,Clothing,2551.71,8.0,20413.68
+2024-03-20,Hoodie,Clothing,1534.35,8.0,12274.8
+2024-01-30,Earbuds,Electronics,2054.25,4.0,8217.0
+2024-06-09,Spices Pack,Groceries,143.61,2.0,287.22
+2024-09-01,Laptop,Electronics,54221.56,10.0,542215.6
+2024-01-30,Spices Pack,Groceries,144.24,6.0,865.44
+2024-04-05,Dal,Groceries,98.45,28.0,2756.6
+2024-12-11,Power Bank,Electronics,1214.8,2.0,2429.6
+2024-10-18,LED TV,Electronics,34408.14,2.0,68816.28
+2024-01-21,Power Bank,Electronics,1147.63,10.0,11476.3
+2024-12-02,Dal,Groceries,93.2,14.0,1304.8
+2024-06-10,Ghee,Groceries,540.39,17.0,9186.63
+2024-05-02,Kurta,Clothing,817.35,6.0,4904.1
+2024-12-09,Formal Shirt,Clothing,1012.74,3.0,3038.22
+2024-06-10,Wheat Flour,Groceries,57.13,15.0,856.95
+2024-11-14,Laptop,Electronics,54847.18,8.0,438777.44
+2024-10-02,Dal,Groceries,91.39,3.0,274.17
+2024-03-08,Webcam,Electronics,2553.31,5.0,12766.55
+2024-07-08,Jeans,Clothing,1231.29,4.0,4925.16
+2024-10-05,Saree,Clothing,3018.38,8.0,24147.04
+2024-11-30,Wheat Flour,Groceries,56.49,20.0,1129.8
+2024-10-10,Rice Bag,Groceries,119.93,22.0,2638.46
+2024-05-15,Jeans,Clothing,1202.73,3.0,3608.19
+2024-03-20,Smartphone,Electronics,24818.85,9.0,223369.65
+2024-04-17,Jacket,Clothing,2381.35,10.0,23813.5
+2024-12-17,Tea Powder,Groceries,211.37,7.0,
+2024-09-07,Wheat Flour,Groceries,52.42,17.0,891.14
+2024-11-20,T-Shirt,Clothing,505.81,2.0,1011.62
+2024-01-02,Jacket,Clothing,2453.59,,2453.59
+2024-03-23,Saree,Clothing,3002.57,5.0,15012.85
+2024-12-27,Salt,Groceries,20.82,18.0,374.76
+2024-02-27,Hoodie,Clothing,1462.39,1.0,1462.39
+2024-01-19,Tablet,Electronics,17838.69,9.0,160548.21
+2024-03-16,Ethnic Wear,Clothing,2256.22,9.0,20305.98
+2024-06-06,Saree,Clothing,2918.64,1.0,2918.64
+2024-04-17,T-Shirt,Clothing,477.89,6.0,2867.34
+2024-02-22,Sugar,Groceries,44.05,22.0,969.1
+2024-11-13,Hoodie,Clothing,1449.18,7.0,10144.26
+2024-05-01,Cooking Oil,Groceries,187.73,30.0,
+2024-01-13,Tablet,Electronics,18554.62,,
+2024-12-08,Smartwatch,Electronics,8106.72,7.0,56747.04
+2024-03-22,Sugar,Groceries,46.67,9.0,420.03
+2024-01-20,Dal,Groceries,97.88,13.0,1272.44
+2024-08-23,Kurta,Clothing,773.96,4.0,3095.84
+2024-04-24,Jacket,Clothing,2598.14,4.0,
+2024-06-17,Headphones,Electronics,1505.9,7.0,10541.3
+2024-06-28,Jeans,Clothing,1236.89,5.0,6184.45
+2024-12-13,Spices Pack,Groceries,155.94,13.0,2027.22
+2024-02-29,Tea Powder,Groceries,216.0,1.0,216.0
+2024-05-15,Saree,Clothing,2883.02,10.0,28830.2
+2024-08-10,Smartphone,Electronics,24319.84,10.0,243198.4
+2024-11-06,Leggings,Clothing,296.82,,2077.74
+2024-10-22,Dal,Groceries,98.02,13.0,1274.26
+2024-12-28,Earbuds,Electronics,2072.15,1.0,2072.15
+2024-10-02,T-Shirt,Clothing,474.4,9.0,4269.6
+2024-08-08,Sugar,Groceries,45.05,12.0,540.6
+2024-06-09,Smartwatch,Electronics,7933.93,10.0,79339.3
+2024-06-02,Dal,Groceries,92.36,24.0,2216.64
+2024-07-28,Wheat Flour,Groceries,,22.0,1164.02
+2024-10-10,Formal Shirt,Clothing,982.78,5.0,4913.9
+2024-12-06,Headphones,Electronics,1566.44,7.0,10965.08
+2024-10-18,Saree,Clothing,2946.96,10.0,29469.6
+2024-01-01,Formal Shirt,Clothing,1000.88,9.0,9007.92
+2024-08-08,Jacket,Clothing,2550.75,,10203.0
+2024-06-13,Ghee,Groceries,542.5,21.0,11392.5
+2024-12-11,Shorts,Clothing,471.23,8.0,3769.84
+2024-03-27,Webcam,Electronics,2615.61,8.0,20924.88
+2024-09-20,Dal,Groceries,92.64,10.0,926.4
+2024-02-17,Ghee,Groceries,549.85,11.0,6048.35
+2024-04-11,Earbuds,Electronics,1960.18,4.0,7840.72
+2024-05-05,Laptop,Electronics,53816.62,1.0,53816.62
+2024-08-21,Ethnic Wear,Clothing,2098.12,2.0,4196.24
+2024-12-22,Ethnic Wear,Clothing,2224.1,4.0,8896.4
+2024-05-04,Shorts,Clothing,450.12,7.0,3150.84
+2024-08-05,Laptop,Electronics,52533.13,2.0,105066.26
+2024-08-25,Tablet,Electronics,17601.56,9.0,158414.04
+2024-03-03,Webcam,Electronics,2602.07,4.0,10408.28
+2024-12-07,Saree,Clothing,2921.87,8.0,23374.96
+2024-06-11,Spices Pack,Groceries,144.67,,2893.4
+2024-08-06,Ethnic Wear,Clothing,2197.68,9.0,19779.12
+2024-03-22,Salt,Groceries,20.97,29.0,608.13
+2024-05-12,Salt,Groceries,,15.0,292.2
+2024-09-05,Earbuds,Electronics,2034.43,9.0,18309.87
+2024-08-13,Sugar,Groceries,46.18,9.0,415.62
+2024-05-19,Earbuds,Electronics,1947.53,4.0,7790.12
+2024-02-11,Leggings,Clothing,305.82,9.0,2752.38
+2024-07-15,Tablet,Electronics,17762.01,4.0,71048.04
+2024-04-19,Cooking Oil,Groceries,182.38,23.0,4194.74
+2024-06-18,LED TV,Electronics,35467.35,7.0,248271.45
+2024-02-01,Salt,Groceries,20.07,14.0,280.98
+2024-10-26,LED TV,Electronics,33566.01,7.0,234962.07
+2024-10-21,Rice Bag,Groceries,124.02,28.0,3472.56
+2024-06-29,Shorts,Clothing,441.94,1.0,441.94
+2024-10-02,Formal Shirt,Clothing,967.68,7.0,6773.76
+2024-11-04,Spices Pack,Groceries,143.11,26.0,3720.86
+2024-05-19,Bluetooth Speaker,Electronics,3027.27,4.0,12109.08
+2024-07-18,Shorts,Clothing,457.99,1.0,457.99
+2024-08-27,Formal Shirt,Clothing,950.71,3.0,2852.13
+2024-01-14,Power Bank,Electronics,1201.45,9.0,10813.05
+2024-12-05,Ethnic Wear,Clothing,2139.83,10.0,21398.3
+2024-03-10,Smartphone,Electronics,25362.93,7.0,177540.51
+2024-05-13,Saree,Clothing,2902.31,1.0,2902.31
+2024-08-20,Leggings,Clothing,304.71,4.0,1218.84
+2024-05-22,Leggings,Clothing,295.61,7.0,2069.27
+2024-08-28,Jacket,Clothing,2609.18,2.0,5218.36
+2024-06-28,Webcam,Electronics,,1.0,2409.38
+2024-01-16,Smartphone,Electronics,24602.67,1.0,24602.67
+2024-11-14,Headphones,Electronics,1442.02,1.0,1442.02
+2024-08-30,Headphones,Electronics,1563.7,3.0,4691.1
+2024-04-21,Dal,Groceries,98.58,19.0,1873.02
+2024-03-26,Jacket,Clothing,2439.49,6.0,14636.94
+2024-02-28,Ghee,Groceries,558.8,24.0,13411.2
+2024-10-23,Earbuds,Electronics,2063.44,2.0,4126.88
+2024-12-12,Earbuds,Electronics,2011.04,,20110.4
+2024-02-08,Formal Shirt,Clothing,1001.96,4.0,4007.84
+2024-12-22,Sugar,Groceries,43.84,4.0,175.36
+2024-10-16,Ethnic Wear,Clothing,2110.48,2.0,
+2024-08-07,Smartwatch,Electronics,8317.77,9.0,74859.93
+2024-09-16,Tea Powder,Groceries,228.81,3.0,686.43
+2024-08-03,Tea Powder,Groceries,222.93,1.0,222.93
+2024-07-04,Jeans,Clothing,1180.68,7.0,8264.76
+2024-03-19,Salt,Groceries,19.7,23.0,453.1
+2024-11-29,Saree,Clothing,3067.79,9.0,27610.11
+2024-09-04,Ethnic Wear,Clothing,2287.36,9.0,20586.24
+2024-05-17,Formal Shirt,Clothing,1037.67,10.0,10376.7
+2024-05-22,Kurta,Clothing,821.36,2.0,1642.72
+2024-10-18,Kurta,Clothing,810.35,8.0,6482.8
+2024-01-15,Coffee,Groceries,335.44,11.0,3689.84
+2024-09-06,Leggings,Clothing,288.88,3.0,866.64
+2024-06-23,Smartwatch,Electronics,8318.84,5.0,41594.2
+2024-10-11,Ethnic Wear,Clothing,2223.41,5.0,11117.05
+2024-02-13,Webcam,Electronics,2377.3,4.0,9509.2
+2024-10-11,LED TV,Electronics,33605.15,8.0,268841.2
+2024-08-17,Bluetooth Speaker,Electronics,3049.05,8.0,24392.4
+2024-04-23,Smartphone,Electronics,23762.65,5.0,118813.25
+2024-12-05,Kurta,Clothing,771.9,5.0,3859.5
+2024-10-10,Tea Powder,Groceries,221.07,16.0,3537.12
+2024-10-08,Tea Powder,Groceries,224.22,14.0,3139.08
+2024-05-18,Leggings,Clothing,303.54,8.0,2428.32
+2024-03-02,Jacket,Clothing,2431.07,4.0,9724.28
+2024-03-02,Sugar,Groceries,45.95,11.0,505.45
+2024-12-19,Spices Pack,Groceries,146.06,25.0,3651.5
+2024-09-04,Headphones,Electronics,1473.81,4.0,5895.24
+2024-11-01,Ethnic Wear,Clothing,,9.0,20288.07
+2024-05-31,Jeans,Clothing,1217.96,4.0,4871.84
+2024-06-03,Smartwatch,Electronics,8279.38,3.0,24838.14
+2024-05-20,Webcam,Electronics,2539.4,3.0,7618.2
+2024-05-29,Laptop,Electronics,,9.0,498381.3
+2024-09-08,Cooking Oil,Groceries,172.69,21.0,3626.49
+2024-05-25,Laptop,Electronics,54272.44,10.0,542724.4
+2024-06-23,Shorts,Clothing,439.43,8.0,3515.44
+2024-09-01,Laptop,Electronics,53591.94,5.0,267959.7
+2024-09-08,Smartphone,Electronics,26182.53,7.0,183277.71
+2024-03-18,Power Bank,Electronics,1187.17,1.0,1187.17
+2024-02-13,Power Bank,Electronics,1247.05,5.0,6235.25
+2024-08-01,Smartphone,Electronics,25327.85,9.0,227950.65
+2024-11-12,Ghee,Groceries,566.21,26.0,14721.46
+2024-08-18,Webcam,Electronics,2500.66,7.0,17504.62
+2024-08-07,Jacket,Clothing,2519.23,10.0,25192.3
+2024-01-31,Ethnic Wear,Clothing,2198.35,10.0,21983.5
+2024-04-16,Dal,Groceries,92.1,25.0,2302.5
+2024-12-04,Sugar,Groceries,46.0,9.0,414.0
+2024-03-29,Tablet,Electronics,17605.39,4.0,70421.56
+2024-01-02,Dal,Groceries,90.48,6.0,542.88
+2024-08-28,Shorts,Clothing,456.55,10.0,4565.5
+2024-05-27,T-Shirt,Clothing,482.89,4.0,1931.56
+2024-08-20,Wheat Flour,Groceries,57.42,23.0,1320.66
+2024-11-16,Headphones,Electronics,1568.09,5.0,7840.45
+2024-02-28,Sugar,Groceries,46.87,14.0,656.18
+2024-03-17,Sugar,Groceries,44.42,21.0,932.82
+2024-01-31,Saree,Clothing,2854.64,2.0,5709.28
+2024-10-18,Earbuds,Electronics,2085.66,10.0,20856.6
+2024-08-27,Shorts,Clothing,446.77,2.0,893.54
+2024-07-25,Wheat Flour,Groceries,57.57,23.0,1324.11
+2024-09-09,Hoodie,Clothing,1569.54,9.0,14125.86
+2024-01-21,Jeans,Clothing,,10.0,12423.6
+2024-05-08,Leggings,Clothing,292.85,10.0,2928.5
+2024-12-11,Smartphone,Electronics,24712.74,4.0,98850.96
+2024-12-10,Ghee,Groceries,569.31,1.0,569.31
+2024-03-30,Ethnic Wear,Clothing,2159.72,1.0,2159.72
+2024-05-22,Hoodie,Clothing,1450.42,8.0,11603.36
+2024-11-21,Power Bank,Electronics,1206.82,7.0,8447.74
+2024-06-27,Jeans,Clothing,1252.34,8.0,10018.72
+2024-12-09,Leggings,Clothing,304.86,6.0,1829.16
+2024-07-29,Tablet,Electronics,18126.11,6.0,108756.66
+2024-12-05,Salt,Groceries,19.19,10.0,191.9
+2024-08-20,Hoodie,Clothing,1517.25,1.0,1517.25
+2024-06-14,Smartwatch,Electronics,8392.04,5.0,41960.2
+2024-01-01,LED TV,Electronics,33740.29,9.0,303662.61
+2024-07-30,Spices Pack,Groceries,150.27,15.0,
+2024-07-04,Headphones,Electronics,1556.61,9.0,14009.49
+2024-08-14,Salt,Groceries,20.48,21.0,430.08
+2024-10-08,Headphones,Electronics,1529.55,5.0,7647.75
+2024-12-23,Earbuds,Electronics,2040.5,8.0,16324.0
+2024-11-18,Jeans,Clothing,1183.14,1.0,1183.14
+2024-03-22,Sugar,Groceries,44.07,23.0,1013.61
+2024-10-09,Hoodie,Clothing,1546.4,1.0,1546.4
+2024-02-28,Jeans,Clothing,1237.21,4.0,4948.84
+2024-09-12,Jeans,Clothing,1244.05,3.0,3732.15
+2024-12-27,Wheat Flour,Groceries,57.27,17.0,973.59
+2024-08-29,Formal Shirt,Clothing,1000.13,8.0,8001.04
+2024-03-15,Bluetooth Speaker,Electronics,3000.45,9.0,27004.05
+2024-09-17,Kurta,Clothing,822.83,10.0,8228.3
+2024-02-05,Cooking Oil,Groceries,182.7,28.0,5115.6
+2024-09-16,Formal Shirt,Clothing,1019.18,6.0,6115.08
+2024-06-01,T-Shirt,Clothing,513.76,5.0,2568.8
+2024-09-07,Ghee,Groceries,571.45,22.0,12571.9
+2024-09-04,Bluetooth Speaker,Electronics,2951.4,9.0,26562.6
+2024-10-05,Leggings,Clothing,295.28,9.0,2657.52
+2024-04-06,Shorts,Clothing,431.73,6.0,2590.38
+2024-07-15,Sugar,Groceries,45.35,19.0,861.65
+2024-06-11,LED TV,Electronics,33375.8,1.0,33375.8
+2024-07-14,Salt,Groceries,19.93,23.0,458.39
+2024-01-19,Saree,Clothing,3012.79,8.0,24102.32
+2024-06-18,Webcam,Electronics,2446.64,10.0,24466.4
+2024-09-26,Bluetooth Speaker,Electronics,3027.25,2.0,6054.5
+2024-07-28,T-Shirt,Clothing,475.57,3.0,1426.71
+2024-08-28,Cooking Oil,Groceries,171.67,3.0,515.01
+2024-12-20,Leggings,Clothing,308.65,10.0,3086.5
+2024-12-11,Jeans,Clothing,,6.0,7099.32
+2024-11-16,Coffee,Groceries,336.95,11.0,3706.45
+2024-10-04,Salt,Groceries,20.04,28.0,561.12
+2024-04-30,Power Bank,Electronics,1232.4,2.0,
+2024-02-16,Wheat Flour,Groceries,53.44,8.0,427.52
+2024-08-15,Jeans,Clothing,1214.75,2.0,2429.5
+2024-01-24,Earbuds,Electronics,1917.07,1.0,1917.07
+2024-07-02,T-Shirt,Clothing,476.63,5.0,2383.15
+2024-05-05,Formal Shirt,Clothing,1002.13,3.0,3006.39
+2024-12-15,Coffee,Groceries,351.42,19.0,6676.98
+2024-02-10,Tablet,Electronics,18247.37,3.0,54742.11
+2024-12-15,Coffee,Groceries,357.91,20.0,7158.2
+2024-03-14,Bluetooth Speaker,Electronics,3142.76,10.0,31427.6
+2024-08-23,Bluetooth Speaker,Electronics,3004.89,5.0,15024.45
+2024-05-27,T-Shirt,Clothing,490.17,8.0,3921.36
+2024-02-07,Spices Pack,Groceries,,6.0,926.58
+2024-06-02,Leggings,Clothing,292.15,10.0,2921.5
+2024-05-08,Coffee,Groceries,347.86,23.0,8000.78
+2024-07-15,Jacket,Clothing,2394.61,4.0,9578.44
+2024-07-14,Jeans,Clothing,1143.04,4.0,4572.16
+2024-05-31,Tea Powder,Groceries,230.18,19.0,4373.42
+2024-12-03,Wheat Flour,Groceries,56.85,1.0,56.85
+2024-10-16,Jacket,Clothing,2548.99,,2548.99
+2024-11-06,Rice Bag,Groceries,118.91,30.0,3567.3
+2024-05-26,Salt,Groceries,19.35,27.0,522.45
+2024-04-22,Power Bank,Electronics,1158.77,6.0,6952.62
+2024-05-08,Sugar,Groceries,43.88,20.0,877.6
+2024-02-19,Cooking Oil,Groceries,180.89,21.0,3798.69
+2024-08-13,Rice Bag,Groceries,122.58,10.0,1225.8
+2024-03-08,Power Bank,Electronics,1219.22,6.0,7315.32
+2024-07-31,Earbuds,Electronics,1955.99,6.0,11735.94
+2024-10-03,Headphones,Electronics,1568.23,3.0,4704.69
+2024-05-19,Hoodie,Clothing,1535.68,9.0,13821.12
+2024-05-31,Earbuds,Electronics,2010.87,8.0,16086.96
+2024-02-28,Tea Powder,Groceries,222.46,26.0,5783.96
+2024-04-25,Jeans,Clothing,1190.35,3.0,3571.05
+2024-10-12,Coffee,Groceries,341.17,28.0,9552.76
+2024-01-08,Jeans,Clothing,1182.72,7.0,8279.04
+2024-08-20,Hoodie,Clothing,1538.68,2.0,3077.36
+2024-07-14,Jacket,Clothing,2378.6,,23786.0
+2024-12-11,Tea Powder,Groceries,211.55,4.0,846.2
+2024-11-13,Bluetooth Speaker,Electronics,2863.8,1.0,2863.8
+2024-11-08,Tea Powder,Groceries,209.9,30.0,6297.0
+2024-12-24,Smartphone,Electronics,25888.65,8.0,207109.2
+2024-03-12,Formal Shirt,Clothing,1019.35,2.0,2038.7
+2024-09-09,Laptop,Electronics,54857.96,5.0,274289.8
+2024-10-02,Smartphone,Electronics,23994.59,4.0,95978.36
+2024-07-08,LED TV,Electronics,34970.66,8.0,279765.28
+2024-10-27,Spices Pack,Groceries,149.6,14.0,2094.4
+2024-07-31,Cooking Oil,Groceries,174.12,29.0,5049.48
+2024-09-07,Dal,Groceries,94.37,27.0,2547.99
+2024-01-17,Coffee,Groceries,346.45,9.0,
+2024-08-15,Tea Powder,Groceries,222.55,7.0,1557.85
+2024-02-20,Kurta,Clothing,809.79,6.0,4858.74
+2024-11-26,Tea Powder,Groceries,210.0,18.0,3780.0
+2024-05-21,T-Shirt,Clothing,492.74,7.0,3449.18
+2024-02-16,Smartphone,Electronics,25314.65,8.0,202517.2
+2024-11-23,Sugar,Groceries,45.01,21.0,945.21
+2024-06-19,Rice Bag,Groceries,124.28,2.0,248.56
+2024-04-15,Tablet,Electronics,18285.65,10.0,182856.5
+2024-10-27,Webcam,Electronics,2415.73,4.0,9662.92
+2024-03-16,Headphones,Electronics,1435.59,6.0,8613.54
+2024-03-15,Rice Bag,Groceries,121.71,9.0,1095.39
+2024-03-30,Webcam,Electronics,2381.63,5.0,11908.15
+2024-01-08,Laptop,Electronics,55471.77,3.0,166415.31
+2024-06-14,Kurta,Clothing,834.17,10.0,8341.7
+2024-01-27,Tablet,Electronics,18135.85,5.0,90679.25
+2024-02-28,LED TV,Electronics,34608.59,9.0,311477.31
+2024-08-17,Dal,Groceries,96.36,16.0,1541.76
+2024-02-25,Hoodie,Clothing,1493.74,10.0,14937.4
+2024-11-10,Hoodie,Clothing,1506.84,4.0,6027.36
+2024-08-22,Webcam,Electronics,2610.37,5.0,13051.85
+2024-09-02,Rice Bag,Groceries,118.63,2.0,237.26
+2024-09-08,Formal Shirt,Clothing,1045.07,2.0,2090.14
+2024-02-11,Salt,Groceries,20.81,3.0,62.43
+2024-02-03,Ethnic Wear,Clothing,2133.07,3.0,6399.21
+2024-11-20,Earbuds,Electronics,1913.87,10.0,19138.7
+2024-06-15,Spices Pack,Groceries,144.01,23.0,3312.23
+2024-05-30,Ethnic Wear,Clothing,2094.01,9.0,18846.09
+2024-08-08,Hoodie,Clothing,1439.17,10.0,14391.7
+2024-04-20,Smartphone,Electronics,25457.52,9.0,229117.68
+2024-07-30,Shorts,Clothing,430.7,4.0,1722.8
+2024-07-31,Shorts,Clothing,441.85,7.0,3092.95
+2024-08-06,Dal,Groceries,98.28,11.0,1081.08
+2024-03-19,Jacket,Clothing,2380.82,6.0,14284.92
+2024-02-16,Salt,Groceries,20.63,3.0,61.89
+2024-02-19,Smartphone,Electronics,24454.64,7.0,171182.48
+2024-03-07,Tea Powder,Groceries,211.6,26.0,5501.6
+2024-10-14,Rice Bag,Groceries,122.36,19.0,2324.84
+2024-03-03,Tea Powder,Groceries,222.84,22.0,4902.48
+2024-01-27,Leggings,Clothing,310.29,7.0,2172.03
+2024-06-29,Ethnic Wear,Clothing,2251.72,5.0,11258.6
+2024-04-18,Power Bank,Electronics,1236.42,9.0,11127.78
+2024-02-25,Bluetooth Speaker,Electronics,2934.61,4.0,11738.44
+2024-02-28,Hoodie,Clothing,1451.62,6.0,8709.72
+2024-08-07,Ethnic Wear,Clothing,2255.14,4.0,9020.56
+2024-12-11,Ghee,Groceries,566.88,20.0,11337.6
+2024-11-07,Spices Pack,Groceries,157.36,1.0,157.36
+2024-04-02,Wheat Flour,Groceries,54.52,1.0,54.52
+2024-06-28,Jacket,Clothing,2468.0,6.0,14808.0
+2024-10-16,Tablet,Electronics,18497.54,3.0,55492.62
+2024-03-13,Coffee,Groceries,344.43,3.0,1033.29
+2024-09-28,Rice Bag,Groceries,125.17,3.0,375.51
+2024-08-20,LED TV,Electronics,36254.44,7.0,253781.08
+2024-06-08,Saree,Clothing,2978.7,6.0,17872.2
+2024-10-17,Tea Powder,Groceries,225.52,25.0,5638.0
+2024-01-27,Dal,Groceries,97.42,29.0,2825.18
+2024-01-26,Tablet,Electronics,17285.62,10.0,172856.2
+2024-08-14,Dal,Groceries,98.82,9.0,889.38
+2024-11-06,Coffee,Groceries,350.18,16.0,5602.88
+2024-04-20,Formal Shirt,Clothing,1031.61,5.0,5158.05
+2024-08-08,Dal,Groceries,93.29,12.0,1119.48
+2024-09-06,Earbuds,Electronics,2079.1,10.0,20791.0
+2024-04-22,Wheat Flour,Groceries,54.39,2.0,108.78
+2024-01-04,Ethnic Wear,Clothing,2092.38,1.0,2092.38
+2024-03-11,Earbuds,Electronics,2081.08,4.0,8324.32
+2024-03-02,Jacket,Clothing,2397.82,6.0,14386.92
+2024-03-30,Bluetooth Speaker,Electronics,2945.79,7.0,20620.53
+2024-12-26,LED TV,Electronics,36575.22,9.0,329176.98
+2024-12-08,Webcam,Electronics,2612.65,9.0,23513.85
+2024-01-22,Jeans,Clothing,1208.81,7.0,8461.67
+2024-02-09,T-Shirt,Clothing,,8.0,4044.64
+2024-10-20,Ethnic Wear,Clothing,2188.66,7.0,15320.62
+2024-02-28,Formal Shirt,Clothing,978.34,5.0,4891.7
+2024-03-28,T-Shirt,Clothing,490.45,6.0,2942.7
+2024-12-19,Salt,Groceries,20.35,27.0,549.45
+2024-02-24,Jeans,Clothing,1230.28,7.0,8611.96
+2024-07-24,LED TV,Electronics,36020.53,10.0,360205.3
+2024-06-07,Dal,Groceries,97.75,13.0,1270.75
+2024-06-19,Tea Powder,Groceries,211.01,8.0,1688.08
+2024-11-20,Smartphone,Electronics,24986.05,9.0,224874.45
+2024-04-09,Webcam,Electronics,2389.39,9.0,21504.51
+2024-04-30,Leggings,Clothing,300.48,3.0,901.44
+2024-04-11,Tablet,Electronics,17894.75,5.0,89473.75
+2024-12-01,Power Bank,Electronics,1246.52,3.0,3739.56
+2024-08-25,Tablet,Electronics,17731.65,8.0,141853.2
+2024-12-14,Ghee,Groceries,528.94,15.0,7934.1
+2024-11-17,Ghee,Groceries,530.36,11.0,5833.96
+2024-02-04,Saree,Clothing,3078.45,8.0,24627.6
+2024-05-20,Shorts,Clothing,455.32,5.0,2276.6
+2024-09-16,Rice Bag,Groceries,115.21,12.0,1382.52
+2024-08-19,Earbuds,Electronics,1916.82,8.0,15334.56
+2024-05-26,Laptop,Electronics,56105.33,6.0,336631.98
+2024-10-31,Smartphone,Electronics,23931.91,10.0,239319.1
+2024-10-24,Coffee,Groceries,361.27,15.0,5419.05
+2024-10-19,Rice Bag,Groceries,,15.0,1837.05
+2024-11-05,Sugar,Groceries,43.12,11.0,474.32
+2024-02-01,Hoodie,Clothing,1437.73,3.0,4313.19
+2024-02-13,Jeans,Clothing,1258.4,6.0,7550.4
+2024-05-06,Cooking Oil,Groceries,177.74,2.0,355.48
+2024-09-25,Salt,Groceries,19.74,15.0,296.1
+2024-07-05,Ghee,Groceries,567.2,6.0,3403.2
+2024-07-28,Jacket,Clothing,2611.81,7.0,18282.67
+2024-11-19,Ethnic Wear,Clothing,2306.92,1.0,2306.92
+2024-06-17,Tea Powder,Groceries,225.57,3.0,676.71
+2024-05-25,Webcam,Electronics,2469.06,7.0,17283.42
+2024-06-19,Ethnic Wear,Clothing,2108.37,3.0,6325.11
+2024-06-28,Power Bank,Electronics,1233.26,3.0,3699.78
+2024-10-31,Formal Shirt,Clothing,1004.83,3.0,3014.49
+2024-10-13,Dal,Groceries,94.28,10.0,942.8
+2024-12-09,Leggings,Clothing,311.15,3.0,933.45
+2024-11-26,Spices Pack,Groceries,144.17,3.0,432.51
+2024-07-04,Coffee,Groceries,349.74,,5945.58
+2024-04-02,Smartwatch,Electronics,7609.08,5.0,38045.4
+2024-04-08,Smartwatch,Electronics,7974.93,8.0,63799.44
+2024-02-09,Tablet,Electronics,17201.35,3.0,51604.05
+2024-10-03,Jeans,Clothing,1154.26,9.0,10388.34
+2024-12-04,Spices Pack,Groceries,,2.0,288.52
+2024-11-01,Ethnic Wear,Clothing,2232.83,3.0,6698.49
+2024-04-02,Saree,Clothing,3073.81,3.0,9221.43
+2024-03-25,Ghee,Groceries,554.59,26.0,14419.34
+2024-07-29,Salt,Groceries,20.92,2.0,41.84
+2024-11-08,Kurta,Clothing,,8.0,6312.0
+2024-09-30,Shorts,Clothing,440.36,4.0,1761.44
+2024-04-09,Earbuds,Electronics,2073.72,8.0,16589.76
+2024-08-24,Ethnic Wear,Clothing,2139.19,8.0,17113.52
+2024-09-27,Formal Shirt,Clothing,1045.28,9.0,9407.52
+2024-11-05,Saree,Clothing,2853.65,4.0,11414.6
+2024-11-24,Earbuds,Electronics,2093.98,1.0,2093.98
+2024-02-22,Leggings,Clothing,285.34,9.0,2568.06
+2024-03-04,Spices Pack,Groceries,155.87,28.0,4364.36
+2024-05-19,Jeans,Clothing,1203.32,3.0,3609.96
+2024-08-11,Hoodie,Clothing,1573.94,,4721.82
+2024-06-27,Headphones,Electronics,1436.07,8.0,11488.56
+2024-07-21,LED TV,Electronics,35188.49,1.0,35188.49
+2024-07-16,Tea Powder,Groceries,230.32,8.0,1842.56
+2024-01-15,Smartwatch,Electronics,8018.48,4.0,32073.92
+2024-03-15,Jeans,Clothing,1215.53,6.0,7293.18
+2024-08-29,Laptop,Electronics,56076.62,5.0,280383.1
+2024-12-27,Cooking Oil,Groceries,179.18,25.0,4479.5
+2024-01-03,Shorts,Clothing,455.74,10.0,4557.4
+2024-04-20,Laptop,Electronics,55463.73,5.0,277318.65
+2024-09-27,Webcam,Electronics,2600.29,10.0,26002.9
+2024-05-01,Jeans,Clothing,1145.45,5.0,5727.25
+2024-05-02,Jeans,Clothing,1173.72,1.0,1173.72
+2024-02-02,Ethnic Wear,Clothing,2299.09,,18392.72
+2024-10-01,Bluetooth Speaker,Electronics,3117.08,10.0,31170.8
+2024-05-03,Webcam,Electronics,2488.91,10.0,
+2024-08-07,Cooking Oil,Groceries,182.16,10.0,1821.6
+2024-05-03,Power Bank,Electronics,1173.29,6.0,7039.74
+2024-12-06,Coffee,Groceries,339.08,6.0,2034.48
+2024-07-03,Dal,Groceries,94.66,17.0,1609.22
+2024-09-16,Webcam,Electronics,2463.34,9.0,22170.06
+2024-07-18,Spices Pack,Groceries,151.25,1.0,151.25
+2024-07-10,T-Shirt,Clothing,,7.0,3345.51
+2024-02-04,T-Shirt,Clothing,522.67,6.0,3136.02
+2024-10-24,Kurta,Clothing,837.85,2.0,1675.7
